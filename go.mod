@@ -4,6 +4,7 @@ go 1.21
 
 require (
 	github.com/antlr4-go/antlr/v4 v4.13.0
+	github.com/blastrain/vitess-sqlparser v0.0.0-20201030050434-a139afbb1aba
 	github.com/pingcap/tidb/parser v0.0.0-20221101143359-5b0be9af540e
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.2
@@ -12,6 +13,7 @@ require (
 require (
 	github.com/cznic/mathutil v0.0.0-20181122101859-297441e03548 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/juju/errors v0.0.0-20170703010042-c7d06af17c68 // indirect
 	github.com/pingcap/errors v0.11.5-0.20210425183316-da1aaba5fb63 // indirect
 	github.com/pingcap/log v0.0.0-20210625125904-98ed8e2eb1c7 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
